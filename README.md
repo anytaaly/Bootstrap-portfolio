@@ -1,6 +1,6 @@
 # Bootstrap-portfolio
 Here is the link:
-https://anytaali86.github.io/Bootstrap-portfolio/
+http://www.anytaali.com/
 
 
 Redesigned my portfolio with Bootstrap. 

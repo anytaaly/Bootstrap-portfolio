@@ -1,7 +1,4 @@
-# Bootstrap-portfolio
-Here is the link:
-http://www.anytaali.com/
+# NLP Advance is a Notebook cheat sheet for NLP Devleoper.
 
+This is the repository of what I have learnt over the years. I come here and add any new interesting thing that I come across during work or school. 
 
-Redesigned my portfolio with Bootstrap. 
-Stack used for this project: HTML, CSS
